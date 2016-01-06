@@ -49,3 +49,11 @@ $ node server.js
 2. While holding the shift key on your keyboard, click on the "File" menu in Scratch. You should see "Import Experimental Extension" at the bottom of the menu. Click on it.
 3. Navigate to the directory containing ScratchForARDrone and select the ScratchForARDrone.s2e file. 
 4. You should see the ScratchForARDrone extension and blocks appear in the "More Blocks" category in the Scratch editor. If the node js server ("helper app") is running and responding to poll requests sent by Scratch, there will be a green dot next to the "ScratchForARDrone" title in the Scratch window.
+
+### Watch the Video
+
+Watch this Scratch extension in action on YouTube here: [https://www.youtube.com/watch?v=Oldw0ruI0Cs] (https://www.youtube.com/watch?v=Oldw0ruI0Cs)
+
+### Questions?
+
+Get in touch with the Camp K12 team at info@campk12.com if you have any questions about this extension or about the organization's work in bringing Drone Programming to students in middle school and high school.
